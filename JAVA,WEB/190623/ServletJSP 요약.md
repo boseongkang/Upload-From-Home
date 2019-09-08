@@ -1,5 +1,5 @@
 ### ServletJSP 요약
-
+ 
 #### 웹의 처리 구조
 
 웹 통신에 사용되는 표준 통신 프로토콜은 HTTP(Hyper Text Trasfer Protocol)
