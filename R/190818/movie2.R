@@ -15,3 +15,4 @@ for(i in 1: 100) {
   movie.review <- rbind(movie.review, page)
 }
 write.csv(movie.review, "daummovie2.csv")
+ 
