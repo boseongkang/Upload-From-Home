@@ -1,0 +1,40 @@
+##문제2
+m1 <- matrix(seq(10,38,2),3,5,byrow = T)
+m2 <- m1+100
+m_max_v <- max(m1)
+m_min_v <- min(m1)
+row_max <- apply(m1,1,max)
+col_max <- apply(m1,2,max)
+m1;m2;m_max_v;m_min_v;row_max;col_max;
+
+##문제6
+n1 <- 1:3
+n2 <- 4:6
+n3 <- 7:9
+(m1 <- cbind(n1,n2,n3))
+
+##문제7
+(m2 <- matrix(1:9,nrow=3,ncol=3,byrow=T))
+
+##문제8
+m3 <- m2
+colnames(m3) <- c('col1','col2','col3')
+rownames(m3) <- c('row1','row2','row3');m3
+
+##문제9
+alpha <- matrix(letters[1:6],nrow = 2,ncol=3)
+(alpha2 <- rbind(alpha,letters[(length(letters)-2):length(letters)]))
+(alpha3 <- cbind(alpha,c('s','p')))
+
+##문제10
+(a <- array(1:24,dim = c(2,3,4)))
+a[2,,]
+a[,1,]
+a[,,3]
+a+100
+a[,,4]*100
+a[1,-1,]
+a[2,,2] <- a[2,,2]+100
+a[,,1] <- a[,,1]-2
+a <- a*10
+rm(a)
