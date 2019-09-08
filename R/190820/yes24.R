@@ -1,4 +1,4 @@
-library(RSelenium)
+library(RSelenium) 
 remDr <- remoteDriver(remoteServerAddr = "localhost", port = 4445, browserName = "chrome")
 remDr$open() 
 site <- paste("http://www.yes24.com/24/goods/40936880")
