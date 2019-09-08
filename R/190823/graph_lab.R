@@ -1,4 +1,4 @@
-﻿#문제1
+﻿#문제1 
 install.packages("ggplot2")
 library(ggplot2)
 mpg <- as.data.frame(ggplot2::mpg)
