@@ -1,5 +1,5 @@
 library(ggplot2)
-
+ 
 irisdata <- iris
 names(irisdata) <- c("SLENGTH","SWIDTH","PLENGTH","PWIDTH","SPECIES")
 dbWriteTable(conn,"IRIS",irisdata)
