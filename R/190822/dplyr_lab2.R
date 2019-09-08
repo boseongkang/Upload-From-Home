@@ -1,4 +1,4 @@
-#7-1
+#7-1 
 mpg_1 <- as.data.frame(ggplot2::mpg)
 mpg_1 %>% mutate("합산 연비 변수" = cty+hwy) %>% head
 
