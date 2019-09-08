@@ -1,6 +1,6 @@
 ## leafletexam1.html
 
-div 태그에 id값 필수. 
+div 태그에 id값 필수.  
 
 `	var mymap = L.map('mapid').setView([37.566, 126.978], 18);` 
 
