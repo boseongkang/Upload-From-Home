@@ -1,4 +1,4 @@
-```R
+```R 
 library(RSelenium)
 remDr <- remoteDriver(remoteServerAddr = "localhost", port = 4445, browserName = "chrome")
 remDr$open()
