@@ -1,7 +1,7 @@
 library(leaflet)
 library(dplyr)
 library(ggmap)
-library(Kormaps)
+library(Kormaps) 
 
 DONG<-read.csv('c:/RStudy/one.csv')
 data(korpopmap3)
