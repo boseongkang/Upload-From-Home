@@ -1,4 +1,4 @@
-## Hadoop을 위한 Linux 준비
+## Hadoop을 위한 Linux 준비 
 
 ---
 
