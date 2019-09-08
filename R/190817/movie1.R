@@ -21,3 +21,4 @@ review <- gsub("신고", "", review)
 review 
 page <- cbind(profile,grade,review)
 write.csv(page, "daummovie1.csv")
+ 
