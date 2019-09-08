@@ -3,7 +3,7 @@ duke = c("사과 포도 망고")
 dool2 = c("포도 자몽 자두") 
 ddochi = c("복숭아 사과 포도")
 downur = c("오렌지 바나나 복숭아")
-gilldong = c("포도 바나나 망고")
+gilldong = c("포도 바나나 망고") 
 heedong = c("포도 귤 오렌지")
 
 fruit_tm = c(duke, dool2 ,ddochi, downur, gilldong, heedong)
