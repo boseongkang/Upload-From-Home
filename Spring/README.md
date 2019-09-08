@@ -1,1 +1,1 @@
-![스프링 ](C:\Users\okbos\Desktop\스프링1.png)
+![스프링 ](./img/스프링1.png)
