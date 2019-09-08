@@ -1,4 +1,4 @@
-## servlet-context.xml
+## servlet-context.xml 
 
 이 servlet-content.xml에 태그 추가안하면 bean 태그가 하나 없다고(아마도 ) console창에 에러가 뜬다. 
 
