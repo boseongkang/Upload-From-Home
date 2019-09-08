@@ -1,5 +1,5 @@
 ## NewsServlet 
-
+ 
 @WebServlet("/news") 맵핑명을 통해 URL창에 news로 검색하면 화면이 출력되게 설정.
 
 doGet을 이용하여 글이 삭제되는걸 만든다. 
