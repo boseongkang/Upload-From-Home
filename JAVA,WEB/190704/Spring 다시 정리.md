@@ -1,5 +1,5 @@
 ## Spring 다시 정리
-
+ 
 ### Spring IoC
 
 프로그램에서 필요한 객체 생성을 Spring FW에서 하고 객체를 필요로 하는 곳에 주입하는 것과 객체를 찾을 때 제공하는 것 모두 Spring FW이 대신 처리한다. Spring FW에 의해 관리되는 Java 객체를 **"bean"** 이라고 부르며 이 일을 담당하는 Spring FW의 구성요소를 **IoC 컨테이너** 라고 한다. IoC (Inversion of Control)
