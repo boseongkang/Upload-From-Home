@@ -1,6 +1,6 @@
 ﻿url<- "https://movie.daum.net/moviedb/grade?movieId=121137&type=&page=1"
 text <- read_html(url,  encoding="UTF-8")
-text
+text 
 # 영화제목
 nodes <- html_nodes(text, ".link_profile")
 profile <- html_text(nodes)
