@@ -1,4 +1,4 @@
-### CalcServlet
+### CalcServlet 
 
 html에서 form 태그로 감싸고 GET방식으로 요청하고 action으로 읽어올 Servlet 맵핑명 지정. 
 
