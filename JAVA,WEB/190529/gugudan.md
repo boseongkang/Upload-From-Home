@@ -1,4 +1,4 @@
-### JavaScript 구구단 코드 리뷰
+### JavaScript 구구단 코드 리뷰 
 
 ```HTML
 <!DOCTYPE html>
