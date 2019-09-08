@@ -1,4 +1,4 @@
-library(rvest)
+library(rvest) 
 url<- "https://movie.daum.net/moviedb/grade?movieId=121137&type=netizen"
 text <- read_html(url,  encoding="UTF-8")
 text
