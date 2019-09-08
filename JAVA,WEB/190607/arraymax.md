@@ -1,5 +1,5 @@
 ## JavaScript 
-
+ 
 - Java 환경에서 아래 코드처럼 배열에 숫자를 저장하고 배열 안에 있는 수의 합, 최댓값, 최솟값 을 출력 하는 코드를 만드는 과정은 쉬웠지만 JavaScript는 조금 다르다. 
 
 - 형식은 Java와 매우 유사하다. 출력할때 System.out.println();에서 document.write로 익숙해질 필요가 있다. 
