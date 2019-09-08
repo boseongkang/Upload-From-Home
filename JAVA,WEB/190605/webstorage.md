@@ -1,6 +1,6 @@
 ## 6월 5일 
 
-### Web Storage API 
+### Web Storage API  
 
 - Same Origin Policy : 스토리지에 보관해둔 사이트, ex) 네이버에서 저장한건     									네이버에서만 사용가능 다음에서 네이버 자료 읽기 X	          				     도메인당 5mb로 권장, 추가시 사용자 동의 얻어 확장O
 
