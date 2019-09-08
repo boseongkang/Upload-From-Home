@@ -1,4 +1,4 @@
-beeline에서 table 만들고 select해서 결과물 보는 코드
+beeline에서 table 만들고 select해서 결과물 보는 코드 
 
 ```
 [root@master ~]# beeline -u  jdbc:hive2://192.168.111.120:10000/mydb -n root -p password
