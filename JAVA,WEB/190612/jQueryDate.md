@@ -1,5 +1,5 @@
 ## jQuery 문
-
+ 
 - .ready 는 자바스크립트에서 window.onload 함수와 비슷하다고 보면 된다. 
 - 모든 HTML 페이지가 화면에 출력되고 .ready 안 이벤트들이 실행준비
 
