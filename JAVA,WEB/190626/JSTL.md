@@ -1,5 +1,5 @@
-## JSTL
-
+## JSTL 
+ 
 **JSTL** : JSP Standard Tag Library - 아파치 오픈그룹이 만든 JSP의 커스텀태그 모음                                                                              JSP를 구현할 때 자주 필요한 기능의 커스텀 태그들을 모아놓은거. 지원 기능에 따라 core 라이브러리, format(i18n) 라이브러리, sql 라이브러리, xml라이브러리, functions 라이브러리
 
 태그명 앞에 c 가 붙어있다면 core 라이브러리 라는 뜻이다.  `<c:xxxx>` 이런식
