@@ -2,7 +2,7 @@ install.packages("KoNLP")
 install.packages("wordcloud2")
 library(KoNLP)
 library(RSelenium)
-library(wordcloud2)
+library(wordcloud2) 
 
 remDr <- remoteDriver(remoteServerAddr = "localhost", port = 4445, browserName = "chrome")
 remDr$open()
