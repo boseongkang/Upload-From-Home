@@ -1,6 +1,6 @@
 사진 업로드 하는법
 올리려고 하는 repository에 들어와서 Issues 버튼을 누르고 
-New issue를 누른다. 
+New issue를 누른다.  
 ![github](https://user-images.githubusercontent.com/50917797/64489690-ff307480-d290-11e9-9cfe-88e22344134d.PNG)
 
 이미지를 이곳에 드래그 하면
